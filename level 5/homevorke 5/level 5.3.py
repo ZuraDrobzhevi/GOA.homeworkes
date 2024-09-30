@@ -218,6 +218,6 @@ penup()
 goto(0, 0)
 pendown()
 
-
+exitonclick()
 
 
